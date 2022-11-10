@@ -28,8 +28,6 @@
 #include "fonts.h"
 #include "ssd1306.h"
 
-
-extern bool MAX31865_Sensor_Error;
  char temperature[35];
 float PT100_Temperature = 0.0f;
 
